@@ -1229,6 +1229,7 @@ html {
 
 @media (max-width: 640px) {
 
+
   .trend-title,
   .trends-header,
   .last-post-title,
@@ -1243,6 +1244,7 @@ html {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
     text-transform: uppercase;
+    
   }
 
   .last-post-content {
